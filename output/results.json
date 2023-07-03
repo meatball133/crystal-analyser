@@ -1,0 +1,23 @@
+{
+    "summery": "test",
+    "comments": [
+        {
+            "comment": "crystal.ameba.warning",
+            "params": {
+                "message": "Use built-in formatter to format this source",
+                "line_number": 1
+            },
+            "type": "warning"
+        },
+        {
+            "comment": "crystal.two-fer.no_def_arg",
+            "params": {},
+            "type": "warrning"
+        },
+        {
+            "comment": "crystal.two-fer.string_format",
+            "params": {},
+            "type": "warrning"
+        }
+    ]
+}
